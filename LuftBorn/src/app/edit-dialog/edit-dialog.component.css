@@ -1,0 +1,38 @@
+/* edit-dialog.component.css */
+.container{
+    margin: 50px;
+}
+.edit-form {
+    width: 250px; /* Adjust width as needed */
+  }
+  
+  .full-width {
+    width: 100%;
+  }
+  
+  .half-width {
+    width: calc(50% - 12px); /* Adjust width as needed */
+  }
+  
+  .mat-error {
+    color: red; /* Error message color */
+  }
+  
+  .mat-dialog-title {
+    font-size: 24px; /* Title font size */
+    margin-bottom: 16px; /* Add margin at the bottom of the title */
+  }
+  
+  .mat-dialog-content {
+    margin-bottom: 16px; /* Add margin at the bottom of the content */
+  }
+  
+  .mat-dialog-actions {
+    justify-content: flex-end; /* Align buttons to the right */
+    margin-top: 16px; /* Adjust top margin as needed */
+  }
+  
+  .mat-button {
+    margin-right: 8px; /* Add some space between buttons */
+  }
+  
