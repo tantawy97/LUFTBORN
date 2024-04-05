@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 /LuftBorn/.angular
 /LuftBorn/.vscode
+/LuftBorn/.vscode/extensions.json
+/LuftBorn/.vscode/launch.json
+/LuftBorn/.vscode/tasks.json
