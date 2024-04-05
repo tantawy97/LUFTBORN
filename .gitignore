@@ -403,3 +403,5 @@ FodyWeavers.xsd
 /LuftBorn/.vscode/launch.json
 /LuftBorn/.vscode/tasks.json
 /LuftBorn/.angular/cache/17.3.3/LuftBorn/.tsbuildinfo
+/LuftBorn.UI/.angular/cache/17.3.3/LuftBorn
+/LuftBorn.UI/dist/luft-born
